@@ -1,0 +1,7 @@
+ID | int(11) | NO | PRI | 0
+TYPE | varchar(50) | YES |  | NULL
+NAME | varchar(50) | YES |  | NULL
+LATITUDE | int(11) | YES |  | NULL
+LONGITUDE | int(11) | YES |  | NULL
+COUNTRY| varchar(50) | YES | | NULL
+REGION | varchar(50) | YES | | NULL
